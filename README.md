@@ -1,2 +1,2 @@
 # Assistant_Skills
-AI Assistant Skills in order to localize what you AI needs to be doing. 
+AI Assistant Skills in order to localize what your AI needs to be doing. 
